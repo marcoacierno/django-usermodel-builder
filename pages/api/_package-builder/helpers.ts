@@ -7,5 +7,5 @@ export const templatePath = path.join(
   "pages",
   "api",
   "_package-builder",
-  "template"
+  "_template"
 );
